@@ -1,4 +1,3 @@
-Creating a RESTful API using GoLang
 
 run the main.go file by 'go run main.go'
 
