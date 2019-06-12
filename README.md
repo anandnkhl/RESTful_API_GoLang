@@ -1,5 +1,4 @@
-
-run the main.go file by 'go run main.go'
+Run the main.go file by 'go run main.go'
 
 Open Web Browser and do a get request for 'localhost:8081' 
 (Change port in main.go to run at any other port):
