@@ -1,4 +1,4 @@
-<h2>1.</h2> Run the basic.go file by "go run basic.go"
+<h2>1. basic.go</h2> Run the basic.go file by "go run basic.go"
 
 Open Web Browser and do a get request for 'localhost:8081' 
 (Change port in basic.go to run at any other port):
@@ -7,7 +7,7 @@ Open Web Browser and do a get request for 'localhost:8081'
 Do a get request for 'localhost:8081/articles' :
 ![Screenshot from 2019-06-12 12-23-58](https://user-images.githubusercontent.com/36640498/59330053-04236d80-8d0e-11e9-8306-14f52ea5668b.png)
 
-<h2>2.</h2> Run the mux.go file by "go run mux.go"
+<h2>2. mux.go</h2> Run the mux.go file by "go run mux.go"
 
 Do a get request for 'localhost:8082' 
 (Change port in mux.go to run at any other port):
